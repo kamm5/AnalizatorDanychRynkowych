@@ -37,3 +37,6 @@ Przykładowe zadanie w pliku `tasks.txt`:
 - `0`: Przesunięcie kursora odczytu wartości.
 - `"`: Znak kończący.
 
+## Screenshots
+![screenshot1](screenshots/screenshot1.png)
+![screenshot2](screenshots/screenshot2.png)
